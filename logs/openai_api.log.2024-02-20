@@ -1,0 +1,14 @@
+2024-02-20 14:13:55 | INFO | stdout | [32mINFO[0m:     192.168.2.60:33564 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-20 14:14:00 | INFO | stdout | [32mINFO[0m:     192.168.2.60:33570 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-20 14:17:05 | INFO | stdout | [32mINFO[0m:     192.168.2.60:58376 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-20 14:17:09 | INFO | stdout | [32mINFO[0m:     192.168.2.60:58390 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-20 14:19:31 | INFO | stdout | [32mINFO[0m:     192.168.2.60:34060 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-20 14:19:37 | INFO | stdout | [32mINFO[0m:     192.168.2.60:34068 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-21 01:11:00 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m2084352[0m]
+2024-02-21 01:11:00 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2024-02-21 01:11:00 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2024-02-21 01:11:00 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://192.168.2.60:8888[0m (Press CTRL+C to quit)
+2024-02-21 10:06:22 | INFO | stdout | [32mINFO[0m:     192.168.2.60:45890 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-21 10:06:31 | INFO | stdout | [32mINFO[0m:     192.168.2.60:50988 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-21 12:15:42 | INFO | stdout | [32mINFO[0m:     192.168.2.60:54814 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-02-21 12:15:48 | INFO | stdout | [32mINFO[0m:     192.168.2.60:54828 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m

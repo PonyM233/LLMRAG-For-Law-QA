@@ -1,0 +1,113 @@
+2023-12-13 13:56:28 | INFO | stdout | [32mINFO[0m:     192.168.2.144:53806 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 14:06:14 | INFO | stdout | [32mINFO[0m:     192.168.2.144:36508 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 14:07:38 | INFO | stdout | [32mINFO[0m:     192.168.2.144:60134 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 14:07:42 | INFO | stdout | [32mINFO[0m:     192.168.2.144:60148 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 14:08:50 | INFO | stdout | [32mINFO[0m:     192.168.2.144:45556 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 14:09:34 | INFO | stdout | [32mINFO[0m:     192.168.2.144:51330 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 14:12:05 | INFO | stdout | [32mINFO[0m:     192.168.2.144:37088 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 15:49:20 | INFO | stdout | [32mINFO[0m:     192.168.2.144:45670 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 15:58:57 | INFO | stdout | [32mINFO[0m:     192.168.2.144:53004 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 16:22:23 | INFO | stdout | [32mINFO[0m:     192.168.2.144:54590 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-13 16:51:24 | INFO | stdout | [32mINFO[0m:     192.168.2.144:60946 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 08:29:44 | INFO | stdout | [32mINFO[0m:     192.168.2.144:54524 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 08:42:43 | INFO | stdout | [32mINFO[0m:     192.168.2.144:49730 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 08:43:35 | INFO | stdout | [32mINFO[0m:     192.168.2.144:56214 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 08:46:03 | INFO | stdout | [32mINFO[0m:     192.168.2.144:34132 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 09:05:34 | INFO | stdout | [32mINFO[0m:     192.168.2.144:36768 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:14:25 | INFO | stdout | [32mINFO[0m:     192.168.2.144:46850 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:16:49 | INFO | stdout | [32mINFO[0m:     192.168.2.144:46718 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:16:54 | INFO | stdout | [32mINFO[0m:     192.168.2.144:46724 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:17:11 | INFO | stdout | [32mINFO[0m:     192.168.2.144:56954 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:17:15 | INFO | stdout | [32mINFO[0m:     192.168.2.144:41760 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:17:36 | INFO | stdout | [32mINFO[0m:     192.168.2.144:33268 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:18:03 | INFO | stdout | [32mINFO[0m:     192.168.2.144:47556 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:18:39 | INFO | stdout | [32mINFO[0m:     192.168.2.144:32902 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 10:28:08 | INFO | stdout | [32mINFO[0m:     192.168.2.144:53132 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 11:57:52 | INFO | stdout | [32mINFO[0m:     192.168.2.144:48404 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-14 18:59:50 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m11627[0m]
+2023-12-14 18:59:50 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-12-14 18:59:50 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-12-14 18:59:50 | ERROR | stderr | [31mERROR[0m:    [Errno 99] error while attempting to bind on address ('192.168.2.144', 8888): cannot assign requested address
+2023-12-14 18:59:50 | ERROR | stderr | [32mINFO[0m:     Waiting for application shutdown.
+2023-12-14 18:59:50 | ERROR | stderr | [32mINFO[0m:     Application shutdown complete.
+2023-12-14 19:03:16 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m21965[0m]
+2023-12-14 19:03:16 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-12-14 19:03:16 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-12-14 19:03:16 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://192.168.2.22:8888[0m (Press CTRL+C to quit)
+2023-12-15 09:28:45 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m275978[0m]
+2023-12-15 09:28:45 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-12-15 09:28:45 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-12-15 09:28:45 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://192.168.2.22:8888[0m (Press CTRL+C to quit)
+2023-12-15 09:31:53 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m286033[0m]
+2023-12-15 09:31:53 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-12-15 09:31:53 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-12-15 09:31:53 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://192.168.2.22:8888[0m (Press CTRL+C to quit)
+2023-12-15 09:32:27 | INFO | stdout | [32mINFO[0m:     192.168.2.22:41830 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 09:33:27 | INFO | stdout | [32mINFO[0m:     192.168.2.22:50832 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 09:47:12 | INFO | stdout | [32mINFO[0m:     192.168.2.22:44898 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 09:58:17 | INFO | stdout | [32mINFO[0m:     192.168.2.22:40140 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 09:59:21 | INFO | stdout | [32mINFO[0m:     192.168.2.22:47072 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 09:59:24 | INFO | stdout | [32mINFO[0m:     192.168.2.22:47074 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 09:59:47 | INFO | stdout | [32mINFO[0m:     192.168.2.22:59394 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:00:59 | INFO | stdout | [32mINFO[0m:     192.168.2.22:37526 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:02:28 | INFO | stdout | [32mINFO[0m:     192.168.2.22:42008 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:02:37 | INFO | stdout | [32mINFO[0m:     192.168.2.22:56616 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:03:16 | INFO | stdout | [32mINFO[0m:     192.168.2.22:45554 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:04:05 | INFO | stdout | [32mINFO[0m:     192.168.2.22:54490 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:05:01 | INFO | stdout | [32mINFO[0m:     192.168.2.22:45740 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:05:30 | INFO | stdout | [32mINFO[0m:     192.168.2.22:58402 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:06:02 | INFO | stdout | [32mINFO[0m:     192.168.2.22:47872 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:06:13 | INFO | stdout | [32mINFO[0m:     192.168.2.22:46572 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:10:54 | INFO | stdout | [32mINFO[0m:     192.168.2.22:39174 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:12:11 | INFO | stdout | [32mINFO[0m:     192.168.2.22:44166 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:14:38 | INFO | stdout | [32mINFO[0m:     192.168.2.22:41464 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:16:07 | INFO | stdout | [32mINFO[0m:     192.168.2.22:35236 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:16:58 | INFO | stdout | [32mINFO[0m:     192.168.2.22:56592 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:16:58 | INFO | stdout | [32mINFO[0m:     192.168.2.22:56606 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:17:32 | INFO | stdout | [32mINFO[0m:     192.168.2.22:42686 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:19:53 | INFO | stdout | [32mINFO[0m:     192.168.2.22:57870 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:20:18 | INFO | stdout | [32mINFO[0m:     192.168.2.22:55112 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:20:41 | INFO | stdout | [32mINFO[0m:     192.168.2.22:39360 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:20:55 | INFO | stdout | [32mINFO[0m:     192.168.2.22:34822 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:22:51 | INFO | stdout | [32mINFO[0m:     192.168.2.22:39986 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:23:18 | INFO | stdout | [32mINFO[0m:     192.168.2.22:40118 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:25:17 | INFO | stdout | [32mINFO[0m:     192.168.2.22:46812 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:28:23 | INFO | stdout | [32mINFO[0m:     192.168.2.22:38954 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:29:00 | INFO | stdout | [32mINFO[0m:     192.168.2.22:60442 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:30:24 | INFO | stdout | [32mINFO[0m:     192.168.2.22:41368 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:30:38 | INFO | stdout | [32mINFO[0m:     192.168.2.22:60062 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:31:11 | INFO | stdout | [32mINFO[0m:     192.168.2.22:52426 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:34:12 | INFO | stdout | [32mINFO[0m:     192.168.2.22:36658 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:36:20 | INFO | stdout | [32mINFO[0m:     192.168.2.22:41060 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:55:02 | INFO | stdout | [32mINFO[0m:     192.168.2.22:54906 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:56:27 | INFO | stdout | [32mINFO[0m:     192.168.2.22:40412 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 10:56:52 | INFO | stdout | [32mINFO[0m:     192.168.2.22:40562 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:11:41 | INFO | stdout | [32mINFO[0m:     192.168.2.22:59876 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:24:47 | INFO | stdout | [32mINFO[0m:     192.168.2.22:39252 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:29:31 | INFO | stdout | [32mINFO[0m:     192.168.2.22:48978 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:31:01 | INFO | stdout | [32mINFO[0m:     192.168.2.22:34626 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:32:13 | INFO | stdout | [32mINFO[0m:     192.168.2.22:48806 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:35:36 | INFO | stdout | [32mINFO[0m:     192.168.2.22:48790 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:37:00 | INFO | stdout | [32mINFO[0m:     192.168.2.22:56842 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:39:03 | INFO | stdout | [32mINFO[0m:     192.168.2.22:57362 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 11:55:25 | INFO | stdout | [32mINFO[0m:     192.168.2.22:41574 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 12:37:58 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m670037[0m]
+2023-12-15 12:37:58 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-12-15 12:37:58 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-12-15 12:37:58 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://192.168.2.22:8888[0m (Press CTRL+C to quit)
+2023-12-15 12:38:46 | INFO | stdout | [32mINFO[0m:     192.168.2.22:58386 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 14:43:48 | INFO | stdout | [32mINFO[0m:     192.168.2.22:32806 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 14:47:46 | INFO | stdout | [32mINFO[0m:     192.168.2.22:58512 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 16:46:36 | INFO | stdout | [32mINFO[0m:     192.168.2.22:41754 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 16:48:20 | INFO | stdout | [32mINFO[0m:     192.168.2.22:45708 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 17:21:02 | INFO | stdout | [32mINFO[0m:     192.168.2.22:50374 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 17:33:48 | INFO | stdout | [32mINFO[0m:     192.168.2.22:39746 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 17:33:52 | INFO | stdout | [32mINFO[0m:     192.168.2.22:39750 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 21:09:51 | INFO | stdout | [32mINFO[0m:     192.168.2.22:58784 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 21:10:58 | INFO | stdout | [32mINFO[0m:     192.168.2.22:54720 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 21:11:51 | INFO | stdout | [32mINFO[0m:     192.168.2.22:51250 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 21:12:24 | INFO | stdout | [32mINFO[0m:     192.168.2.22:36982 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 21:12:58 | INFO | stdout | [32mINFO[0m:     192.168.2.22:39200 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 21:13:40 | INFO | stdout | [32mINFO[0m:     192.168.2.22:40082 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-15 21:13:54 | INFO | stdout | [32mINFO[0m:     192.168.2.22:43684 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-12-16 11:27:25 | INFO | stdout | [32mINFO[0m:     192.168.2.22:39382 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m

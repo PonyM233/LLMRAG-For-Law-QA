@@ -1,0 +1,4 @@
+2024-01-19 16:23:56 | INFO | stdout | [32mINFO[0m:     192.168.2.60:51470 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-01-19 16:23:58 | INFO | stdout | [32mINFO[0m:     192.168.2.60:51474 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-01-19 19:51:07 | INFO | stdout | [32mINFO[0m:     192.168.2.60:47716 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2024-01-19 19:51:11 | INFO | stdout | [32mINFO[0m:     192.168.2.60:42050 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m

@@ -1,0 +1,12 @@
+2023-09-22 16:20:07 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m3623692[0m]
+2023-09-22 16:20:07 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-09-22 16:20:07 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-09-22 16:20:07 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://127.0.0.1:8888[0m (Press CTRL+C to quit)
+2023-09-22 16:20:40 | INFO | stdout | [32mINFO[0m:     127.0.0.1:33714 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-09-22 16:21:03 | INFO | stdout | [32mINFO[0m:     127.0.0.1:43544 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-09-22 16:21:37 | INFO | stdout | [32mINFO[0m:     127.0.0.1:39706 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-09-22 16:21:48 | INFO | stdout | [32mINFO[0m:     127.0.0.1:34700 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-09-22 16:53:30 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m3728900[0m]
+2023-09-22 16:53:30 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-09-22 16:53:30 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-09-22 16:53:30 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://127.0.0.1:8888[0m (Press CTRL+C to quit)

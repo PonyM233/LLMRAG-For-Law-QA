@@ -1,0 +1,10 @@
+2023-11-08 11:26:32 | INFO | stdout | [32mINFO[0m:     192.168.1.104:48130 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 14:25:05 | INFO | stdout | [32mINFO[0m:     192.168.1.104:42954 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 14:26:09 | INFO | stdout | [32mINFO[0m:     192.168.1.104:34222 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 20:15:26 | INFO | stdout | [32mINFO[0m:     192.168.1.104:36616 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 20:16:02 | INFO | stdout | [32mINFO[0m:     192.168.1.104:55980 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 20:17:06 | INFO | stdout | [32mINFO[0m:     192.168.1.104:33204 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 20:18:45 | INFO | stdout | [32mINFO[0m:     192.168.1.104:41156 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 20:19:24 | INFO | stdout | [32mINFO[0m:     192.168.1.104:34938 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 20:32:47 | INFO | stdout | [32mINFO[0m:     192.168.1.104:39748 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-08 20:33:11 | INFO | stdout | [32mINFO[0m:     192.168.1.104:41488 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m

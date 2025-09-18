@@ -1,0 +1,39 @@
+2023-11-24 09:38:03 | INFO | stdout | [32mINFO[0m:     192.168.1.104:59048 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 09:38:29 | INFO | stdout | [32mINFO[0m:     192.168.1.104:58128 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 09:38:40 | INFO | stdout | [32mINFO[0m:     192.168.1.104:44896 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 10:38:27 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m9019[0m]
+2023-11-24 10:38:27 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-11-24 10:38:27 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-11-24 10:38:27 | ERROR | stderr | [31mERROR[0m:    [Errno 99] error while attempting to bind on address ('192.168.1.104', 8888): cannot assign requested address
+2023-11-24 10:38:27 | ERROR | stderr | [32mINFO[0m:     Waiting for application shutdown.
+2023-11-24 10:38:27 | ERROR | stderr | [32mINFO[0m:     Application shutdown complete.
+2023-11-24 10:40:18 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m14888[0m]
+2023-11-24 10:40:18 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-11-24 10:40:18 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-11-24 10:40:18 | ERROR | stderr | [31mERROR[0m:    [Errno 99] error while attempting to bind on address ('192.168.1.104', 8888): cannot assign requested address
+2023-11-24 10:40:18 | ERROR | stderr | [32mINFO[0m:     Waiting for application shutdown.
+2023-11-24 10:40:18 | ERROR | stderr | [32mINFO[0m:     Application shutdown complete.
+2023-11-24 10:43:19 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m25113[0m]
+2023-11-24 10:43:19 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-11-24 10:43:19 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-11-24 10:43:19 | ERROR | stderr | [31mERROR[0m:    [Errno 99] error while attempting to bind on address ('192.168.1.104', 8888): cannot assign requested address
+2023-11-24 10:43:19 | ERROR | stderr | [32mINFO[0m:     Waiting for application shutdown.
+2023-11-24 10:43:19 | ERROR | stderr | [32mINFO[0m:     Application shutdown complete.
+2023-11-24 10:50:37 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m45856[0m]
+2023-11-24 10:50:37 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-11-24 10:50:37 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-11-24 10:50:37 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://192.168.2.144:8888[0m (Press CTRL+C to quit)
+2023-11-24 10:56:23 | INFO | stdout | [32mINFO[0m:     192.168.2.144:34410 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 11:29:51 | INFO | stdout | [32mINFO[0m:     192.168.2.144:47490 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 11:30:44 | INFO | stdout | [32mINFO[0m:     192.168.2.144:42098 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:46:18 | INFO | stdout | [32mINFO[0m:     192.168.2.144:58884 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:50:16 | INFO | stdout | [32mINFO[0m:     192.168.2.144:39048 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:52:28 | INFO | stdout | [32mINFO[0m:     192.168.2.144:33854 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:53:23 | INFO | stdout | [32mINFO[0m:     192.168.2.144:59882 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:54:21 | INFO | stdout | [32mINFO[0m:     192.168.2.144:54418 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:55:24 | INFO | stdout | [32mINFO[0m:     192.168.2.144:52154 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:56:40 | INFO | stdout | [32mINFO[0m:     192.168.2.144:41738 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:57:55 | INFO | stdout | [32mINFO[0m:     192.168.2.144:48328 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 15:58:12 | INFO | stdout | [32mINFO[0m:     192.168.2.144:34986 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 16:10:04 | INFO | stdout | [32mINFO[0m:     192.168.2.144:35334 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-24 18:22:07 | INFO | stdout | [32mINFO[0m:     192.168.2.144:40520 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m

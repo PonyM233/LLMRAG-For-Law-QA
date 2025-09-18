@@ -1,0 +1,2 @@
+2024-02-17 21:25:58 | ERROR | model_worker | heart beat error: HTTPConnectionPool(host='192.168.2.60', port=20001): Read timed out. (read timeout=5)
+2024-02-17 21:32:15 | ERROR | model_worker | heart beat error: HTTPConnectionPool(host='192.168.2.60', port=20001): Read timed out. (read timeout=5)
